@@ -157,3 +157,4 @@ El control de versiones es esencial en el desarrollo web, ya que permite registr
 - **Documentación del proyecto:**
   - Escribir documentación clara para facilitar el mantenimiento y la colaboración.
   - Incluye instrucciones de instalación, uso, arquitectura y APIs.
+  - 
