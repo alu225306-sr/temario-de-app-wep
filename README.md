@@ -1,6 +1,8 @@
 # temario de app wep
 ##Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
 El desarrollo web es el proceso de crear sitios y aplicaciones accesibles a través de navegadores de Internet. Ha evolucionado desde páginas estáticas y simples hasta aplicaciones interactivas y avanzadas.
+
+
 <img width="315" height="159" alt="image" src="https://github.com/user-attachments/assets/11085325-0958-4bff-b64e-24cd60b04756" />
 
 
@@ -57,6 +59,9 @@ El control de versiones es esencial en el desarrollo web, ya que permite registr
 - **Merge (fusión):** Consiste en integrar los cambios de una rama al proyecto principal.
 - **Pull requests:** Son solicitudes para fusionar ramas, permitiendo la revisión y discusión del código antes de integrarlo.
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+
+
+
 <img width="349" height="276" alt="image" src="https://github.com/user-attachments/assets/fe4b5686-7562-4164-bb0d-6469ce122902" />
 
 ## 1. Diseño e implementación del frontend
@@ -104,6 +109,9 @@ El control de versiones es esencial en el desarrollo web, ya que permite registr
   - **Autenticación:** Proceso para verificar la identidad de un usuario (ej: login).
   - **Autorización:** Determina los permisos que tiene un usuario autenticado para acceder a ciertos recursos o acciones dentro de la aplicación.
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
+
+
+
 <img width="450" height="286" alt="image" src="https://github.com/user-attachments/assets/802cfa0c-6fa7-41f7-b189-f296da7f7269" />
 
 ## 1. Integración de frontend y backend
